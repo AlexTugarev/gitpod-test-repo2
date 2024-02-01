@@ -1,2 +1,2 @@
 tasks:
-- init: 'exit 1'
+- init: 'sleep 120; exit 1'
