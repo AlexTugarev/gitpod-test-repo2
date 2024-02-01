@@ -1,2 +1,2 @@
 tasks:
-- init: 'for i in {1..60}; do echo "hello"; sleep 1; done; go get -v this/does/not/exist'
+- init: 'sleep 1; go get -v this/does/not/exist'
